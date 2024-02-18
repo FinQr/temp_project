@@ -1,1 +1,2 @@
-> Репозиторий для merge branch
+> Репозиторий для merge branch<br>
+> Merge - слияние
